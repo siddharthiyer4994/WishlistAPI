@@ -1,0 +1,21 @@
+{
+  "name": "wishlistapi",
+  "version": "1.0.0",
+  "description": "Create a wislist of products from various e-commerce sites",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {    
+    "mongoose":"4.7.3",
+    "body-parser":"*",
+    "express":"*"
+  },
+  "devDependencies": {
+    "babel-cli":"*",
+    "babel-preset-latest": "*",
+    "babel-watch":"*"
+  },
+  "author": "Siddharth",
+  "license": "ISC"
+}
